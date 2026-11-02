@@ -1,6 +1,6 @@
-# Autonomous Software Engineer
+# GitHub Issue Resolver 
 
-An AI agent that accepts a GitHub issue, finds the relevant code, generates a fix, runs tests, and opens a pull request — automatically.
+A Multi-Agent System that accepts a GitHub issue, finds the relevant code, generates a fix, runs tests, and opens a pull request — automatically.
 
 ---
 
