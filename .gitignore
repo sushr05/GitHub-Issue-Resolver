@@ -1,0 +1,41 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+env/
+
+# Data / indexes
+data/
+*.faiss
+*.pkl
+*.index
+
+# Build
+dist/
+*.egg-info/
+.hatch/
+
+# Tools
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Tree-sitter compiled grammars
+app/parsers/grammars/*.so
+
+# Claude Code config (local only)
+.claude/
